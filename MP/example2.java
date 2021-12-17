@@ -107,7 +107,7 @@ class Jobb
 		arr.add(new Jobb('c', 4, 25));
 		arr.add(new Jobb('d', 2, 20));
 		arr.add(new Jobb('e', 3, 15));
-        arr.add(new Jobb('d', 1, 12));
+        	arr.add(new Jobb('d', 1, 12));
 		arr.add(new Jobb('e', 2, 5));
 		
 		// Function call
